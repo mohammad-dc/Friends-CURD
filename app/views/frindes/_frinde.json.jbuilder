@@ -1,0 +1,2 @@
+json.extract! frinde, :id, :first_name, :last_name, :email, :phone, :twitter, :created_at, :updated_at
+json.url frinde_url(frinde, format: :json)

@@ -1,0 +1,2 @@
+class Frinde < ApplicationRecord
+end
